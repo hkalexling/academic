@@ -18,27 +18,41 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Ph.D. Candidate"
+  company = "Department of Computer Science, City University of Hong Kong"
+  location = "Hong Kong"
+  date_start = "2017-09-01"
+  date_end = ""
+
+[[experience]]
+  title = "Co-founder, CTO"
+  company = "Nautilus Software Technology Limited"
+  company_url = "https://nautilustech.ai"
+  location = "Hong Kong"
+  date_start = "2018-02-01"
   date_end = ""
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+  Our company is recognized by the Hong Kong Science and Technology Park (HKSTP) and incubated under the prestigious Incu-Tech program. We provide educational AI solutions to our clients including Singapore International School, Tung Wah Group of Hospitals, and South China Morning Post.
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Visiting Student Research Collaborator"
+  company = "Department of Electrical Engineering, Princeton University"
+  location = "Princeton, NJ, US"
+  date_start = "2019-11-01"
+  date_end = "2020-04-01"
+  description = """
+  Advised by Dr. Yuxin Chen, I worked on the problem of crowd-sourced rank aggregation. We are currently working on a conference submission.
+  """
+
+[[experience]]
+  title = "Undergraduate Student"
+  company = "Department of Physics, City University of Hong Kong"
+  location = "Hong Kong"
+  date_start = "2013-09-01"
+  date_end = "2017-07-01"
+  description = """
+  I was put on the dean's list for four times, and my final year research was awarded Outstanding Academic Papers by Students (OAPS).
+  """
 
 +++
