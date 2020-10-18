@@ -71,3 +71,4 @@ I am also an entrepreneur and an active open-source contributor. I co-founded an
 
 <a class="btn btn-outline-primary" type="button" target="_blank" href="https://drive.hkalexling.com/cv.pdf">CV</a>
 <a class="btn btn-outline-primary" type="button" target="_blank" href="https://drive.hkalexling.com/rs.pdf">Research Statement</a>
+<a class="btn btn-outline-primary" type="button" target="_blank" href="https://drive.hkalexling.com/ts.pdf">Teaching Statement</a>
