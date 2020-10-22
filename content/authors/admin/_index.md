@@ -65,7 +65,7 @@ user_groups:
 - Visitors
 ---
 
-I am a Ph.D. student in Computer Science at City University of Hong Kong. Advised by [Dr. Chee Wei Tan](https://www.cs.cityu.edu.hk/~cheewtan/), my research interests include convex optimization and distributed algorithms, as well as their applications in graph analytics, machine learning and large-scale education.
+I am a Ph.D. student in Computer Science at City University of Hong Kong. Advised by [Dr. Chee Wei Tan](https://www.cs.cityu.edu.hk/~cheewtan/), my research interests include convex optimization and distributed algorithms, as well as their applications in graph analytics, machine learning and large-scale education. My research has been featured on the [IEEE Information Theory Society Newsletter](https://www.itsoc.org/publications/newsletters/june-2020-issue#page=3).
 
 I am also an entrepreneur and an active open-source contributor. I co-founded an [AI startup](https://nautilustech.ai/) that is incubated in the Hong Kong Science Park and generating steady revenue. I have been maintaining and contributing to open-source projects for years and I have received over four hundred stars on [GitHub](https://github.com/hkalexling).
 
